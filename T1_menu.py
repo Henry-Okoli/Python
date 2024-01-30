@@ -25,9 +25,7 @@
 
 
 def order_taken(num_iteam):
-    
     iteams = []
-
     for i in range(num_iteam):
         while True:
             # try:
